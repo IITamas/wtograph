@@ -1,12 +1,13 @@
 # wtograph
 
-
 Usage: ./wtograph [OPTION]...
-
 
 Plot a graph about how many user and uniq users you have on the server,
 that refreshes in every second (if -t|--time is not specified)
 
+Example plot:
+
+![alt text](https://github.com/IITamas/wtograph/blob/master/plotted_image.png)
 
 Dependencies:
         gnuplot 5.0
